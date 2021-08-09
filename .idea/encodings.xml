@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/interfaz/InterfazParqueadero.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/interfaz/PanelImagen.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/interfaz/PanelInformacion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/interfaz/PanelOperaciones.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/interfaz/PanelParqueadero.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/mundo/Carro.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/mundo/Parqueadero.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/universidadean/parqueadero/mundo/Puesto.java" charset="windows-1252" />
+  </component>
+</project>
